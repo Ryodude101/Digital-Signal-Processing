@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding='ISO-8859-1'?>
+<visualdsp-project-group generated="Mon Mar 07 10:10:14 2022" version="1.0.0.0" active-project="Talkthrough_TDM_C">
+	<project name="Talkthrough_TDM_C" file=".\Talkthrough_TDM_C.dpj">
+		<dependencies>
+			<dependent-project>CoreA</dependent-project>
+			<dependent-project>CoreB</dependent-project>
+			<dependent-project>sml2</dependent-project>
+			<dependent-project>sml3</dependent-project>
+		</dependencies>
+	</project>
+	<project name="CoreA" file=".\CoreA.dpj">
+	</project>
+	<project name="CoreB" file=".\CoreB.dpj">
+	</project>
+	<project name="sml2" file=".\sml2.dpj">
+	</project>
+	<project name="sml3" file=".\sml3.dpj">
+	</project>
+</visualdsp-project-group>
